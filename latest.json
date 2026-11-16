@@ -1,14 +1,14 @@
 {
- "build": 3014,
- "version": "1.0.12",
+ "build": 3015,
+ "version": "1.0.13",
  "apks": {
   "arm64-v8a": {
    "file": "LearningAdventure.apk",
-   "sha256": "2c1c4c61e0ec140af9d63aadd9901174a0df84a5d76563dc5bcb2d2a3b24ec0a"
+   "sha256": "cd58b9b352955aaf0c20db141c65f83d9c630abde02a279a271fa5e4a09d9169"
   },
   "armeabi-v7a": {
    "file": "LearningAdventure.apk",
-   "sha256": "2c1c4c61e0ec140af9d63aadd9901174a0df84a5d76563dc5bcb2d2a3b24ec0a"
+   "sha256": "cd58b9b352955aaf0c20db141c65f83d9c630abde02a279a271fa5e4a09d9169"
   }
  }
 }
